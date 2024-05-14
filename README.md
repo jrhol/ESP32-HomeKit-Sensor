@@ -9,7 +9,7 @@ Installation
 
 Clone this repository to your local machine:
 
-git clone https://github.com/redfire1015/HomeKit
+git clone https://github.com/redfire1015/HomeKit.git
 
     1. Open the cloned project in PlatformIO.
     2. Upload the Project onto an ESP32 (Currently configured for a DFRobot Firebeetle V2).

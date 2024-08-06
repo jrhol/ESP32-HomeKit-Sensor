@@ -3,15 +3,13 @@
 A basic project that interfaces a BME650 enviroment sensor with Apple Homekit.
 
 Getting Started
+    **Note this code has been written for the DFRobot Firebeetle ESP32 and BME650 Enviroment Sensor**
+1. Firstly connect the BME650 to the ESP32 using the available SPI Bus (Double Check the Pin definitions in main.cpp!).
+2. Clone this repo and open it using platformIO.
+3. Upload to ESP32 and follow the instructions on the serial monitor!
 
-These instructions will help you set up and run CircuitSimAR on your local machine.
+**How to Clone the Repo?**
 
-**Installation**
-
-Clone this repository to your local machine:
-git clone https://github.com/redfire1015/HomeKit.git
-
-    1. Open the cloned project in PlatformIO.
-    2. Upload the Project onto an ESP32 (Currently configured for a DFRobot Firebeetle V2).
-    3. Follow the instructions on the serial monitor.
-
+Use:
+**git clone https://github.com/redfire1015/HomeKit.git**
+To clone this repository to your local machine:
